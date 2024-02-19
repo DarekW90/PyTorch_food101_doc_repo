@@ -4,22 +4,22 @@
 
 ## Experiments completed with this model:
 Both experiments are done on ViT_B_16 pretrained model<br/>
-![Image title](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/model.png?raw=true)
+![vit_b_16_params](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/model.png?raw=true)
 
 ### Experiment_1: Train on 20% of total data 
 
-![Image title](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/20_percent_for_testing.png?raw=true)
-![Image title](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/20_percent_data_training.png?raw=true)
-![Image title](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/curves_20_percent_data.png?raw=true)
+![20_percent_data](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/20_percent_for_testing.png?raw=true)
+![20_percent_data_training](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/20_percent_data_training.png?raw=true)
+![curves_20_percent_data](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/curves_20_percent_data.png?raw=true)
 
 ### Experiment_2: Train on 100% of total data
 
-![Image title](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/100_percent_for_testing.png?raw=true)
-![Image title](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/curves_100_percent_data.png?raw=true)
+![100_percent_training_data](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/100_percent_for_testing.png?raw=true)
+![curves_100_percent_data](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/curves_100_percent_data.png?raw=true)
 
 
 ### Summary:
-![Image title](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/most_wrong.png?raw=true)
+![most_wrong](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/most_wrong.png?raw=true)
 
 As can bee see most wrongs predictions for photos are these food which almost looks the same.
 

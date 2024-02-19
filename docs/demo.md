@@ -4,7 +4,7 @@ For full interactive demo site see ➡ [HuggingFace](https://huggingface.co/spac
 
 Hey! Glad to see you here this is only image of my demo site, please feel free and see how it works at HuggingFace 🤗
 
-![Image title](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/demo_site_image.png?raw=true)
+![hugging_face_portal](https://github.com/DarekW90/PyTorch_food101_doc_repo/blob/main/Images/demo_site_image.png?raw=true)
 
 ## Known issues:
 
